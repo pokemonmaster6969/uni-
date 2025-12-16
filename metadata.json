@@ -1,0 +1,5 @@
+{
+  "name": "Unigenome RNA-Seq Report Builder",
+  "description": "A client-side tool to generate interactive HTML RNA-Seq reports from bioinformatics data files.",
+  "requestFramePermissions": []
+}
